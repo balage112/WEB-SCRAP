@@ -4,4 +4,4 @@ The web scrap idea is about that you can from www.sreality.cz download flats tha
 Once you have filtered the desired area with apartments, web scrap downloads the data into Excel, where it calculates the average of the offered advertisements and
 writes the address and size of the apartment in individual columns
 
-I'm using python and selenium in this work.
+I'm using python and BeautifulSoup in this work.
